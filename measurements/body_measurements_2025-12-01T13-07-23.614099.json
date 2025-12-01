@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-12-01T13:07:23.614099",
+  "user_height_cm": 152.0,
+  "measurements": {
+    "chest": 22.88,
+    "waist": 14.9,
+    "hip": 14.9,
+    "biceps_left": 27.94,
+    "biceps_right": 29.13,
+    "forearm_left": 23.54,
+    "forearm_right": 24.22,
+    "thigh_left": 49.63,
+    "thigh_right": 49.7,
+    "calf_left": 42.64,
+    "calf_right": 44.0
+  },
+  "capture_type": "4-view_auto-capture_circumference_only"
+}
